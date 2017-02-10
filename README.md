@@ -1,2 +1,5 @@
 # A simple IIS app built with docker
-This is a *spike* :)
+Inspired by https://hub.docker.com/r/microsoft/iis/.
+
+Notes: 
+to execute docker on windows I chose Windows 10 and VM Ware Fusion with the Hyper-v support enabled
